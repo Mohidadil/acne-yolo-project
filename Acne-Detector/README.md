@@ -3,8 +3,8 @@ title: Acne Detector
 emoji: 🩺
 colorFrom: blue
 colorTo: purple
-sdk: gradio
-sdk_version: "4.0"
+sdk: streamlit
+sdk_version: "1.32.0"
 app_file: app.py
 pinned: false
 ---
