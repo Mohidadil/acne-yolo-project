@@ -1,2 +1,1 @@
-# Acne-Detector
- 
+"---\ntitle: Acne Detector\nemoji: ??\ncolorFrom: blue\ncolorTo: purple\nsdk: gradio\nsdk_version: \"4.0\"\napp_file: app.py\npinned: false\n---\n\n# Acne Detector\n\nThis project detects acne using YOLO-based deep learning models." 
